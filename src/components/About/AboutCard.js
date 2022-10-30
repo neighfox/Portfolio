@@ -10,8 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Nathan Fox </span>
             from <span className="purple"> Bristol, U.K.</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
+        
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
